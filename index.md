@@ -1,4 +1,4 @@
-# Project Name/Title Goes Here
+# Jimmy
 This will serve as a brief description of your projects. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make her/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
