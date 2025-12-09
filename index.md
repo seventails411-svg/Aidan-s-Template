@@ -11,7 +11,7 @@ jimmy was the bluetooth RC-car I made. Jimmy was part of the codes i wanted to u
 
 My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've changed a few of the parts that were originally on the robot to allow me to use the bluetooth. I changed the code a lot to accommodate the hc-05 . I've loved this journey so far and I can't wait to see where this takes me in my future career.
 
-https://www.youtube.com/watch?v=-OYF9egv7AM&t=25s
+[![Video 1](https://img.youtube.com/vi/T_MJqX7bMys/maxresdefault.jpg)](https://www.youtube.com/watch?v=T_MJqX7bMys)
 
 # Final Schematic jimmy
 https://live.staticflickr.com/65535/54964221443_7051640298_z.jpg
