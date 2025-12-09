@@ -5,7 +5,7 @@ jimmy was the bluetooth RC-car I made. Jimmy was part of the codes i wanted to u
 |:--:|:--:|:--:|:--:|
 | Your Name| Current Highschool | Mechanical Engineering | Senior
 
-(https://live.staticflickr.com/65535/54922274699_8b55427953_w.jpg)
+![Relevant Name](https://live.staticflickr.com/65535/54922274699_8b55427953_w.jpg)
 
 # Final Milestone
 
@@ -14,7 +14,7 @@ My final milestone, I've come a long way from where I started just a couple of m
 [![Video 1](https://img.youtube.com/vi/T_MJqX7bMys/maxresdefault.jpg)](https://www.youtube.com/watch?v=T_MJqX7bMys)
 
 # Final Schematic jimmy
-https://live.staticflickr.com/65535/54964221443_7051640298_z.jpg
+![Relevant Name](https://live.staticflickr.com/65535/54964221443_7051640298_z.jpg)
 
 
 
