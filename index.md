@@ -23,4 +23,4 @@ https://live.staticflickr.com/65535/54964221443_7051640298_z.jpg
 
 My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. I also have enough knowledge to be able to talk about in detail about a bread board and how it works.
 
-https://www.youtube.com/watch?v=-OYF9egv7AM
+[![Video 1](https://img.youtube.com/vi/-OYF9egv7AM/maxresdefault.jpg)](https://www.youtube.com/watch?v=-OYF9egv7AM)
