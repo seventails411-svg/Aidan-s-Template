@@ -11,10 +11,10 @@ jimmy was the bluetooth RC-car I made. Jimmy was part of the codes i wanted to u
 
 My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've changed a few of the parts that were originally on the robot to allow me to use the bluetooth. I changed the code a lot to accommodate the hc-05 . I've loved this journey so far and I can't wait to see where this takes me in my future career.
 
-[![Final Arduino Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1682461069/video_to_markdown/images/youtube--IPL8EP8abRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IPL8EP8abRU "Final Arduino Project")
+https://www.youtube.com/watch?v=-OYF9egv7AM&t=25s
 
-# Final Schematic Sir Kickington 
-![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
+# Final Schematic jimmy
+https://live.staticflickr.com/65535/54964221443_7051640298_z.jpg
 
 
 
@@ -23,5 +23,4 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. I also have enough knowledge to be able to talk about in detail about a bread board and how it works.
 
-[![First Arduino Car Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1679433959/video_to_markdown/images/youtube--gYL3vr7hr5U-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gYL3vr7hr5U&t=1s "First Arduino Car Milestone")
-
+https://www.youtube.com/watch?v=-OYF9egv7AM
